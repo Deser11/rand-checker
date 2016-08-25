@@ -1,0 +1,2 @@
+# rand-checker
+rand() tests
